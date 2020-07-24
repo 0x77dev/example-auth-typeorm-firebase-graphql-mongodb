@@ -6,8 +6,8 @@
 
 ### Auth methods
 
-- [] Email & Password
-- [] Google
+- [ ] Email & Password
+- [ ] Google
 
 ## Project setup
 
