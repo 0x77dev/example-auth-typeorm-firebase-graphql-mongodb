@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "graphql-tag": "^2.10.4",
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "typeorm": "^0.2.25"
   }
 }
